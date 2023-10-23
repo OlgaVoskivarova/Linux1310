@@ -1,0 +1,6 @@
+   0 vi olgascript.sh
+   1 chmod 744 olgascript.sh
+   2  ./olgascript.sh
+   3 cat /opt/Olga/mydate.txt
+   4 history
+   5 history > history_lesson1310.txt
